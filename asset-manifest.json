@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/XBit-Crypto-WebApp/static/js/main.54322f93.js",
+    "static/media/btc.png": "/XBit-Crypto-WebApp/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/file.jpg": "/XBit-Crypto-WebApp/static/media/file.d6574b97d7d4459f44c0.jpg",
+    "index.html": "/XBit-Crypto-WebApp/index.html",
+    "main.54322f93.js.map": "/XBit-Crypto-WebApp/static/js/main.54322f93.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.54322f93.js"
+  ]
+}
